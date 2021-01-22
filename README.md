@@ -1,5 +1,5 @@
 # 18CSL58-DBMS-LAB
-Hi guys, hear i written sql codes to help you. this repository has 5 databases:
+Hi guys, i written sql codes to help you. this repository has 5 databases:
 library database,
 order database,
 movie database,
